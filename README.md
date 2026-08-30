@@ -1,7 +1,7 @@
 # Joyce Acácio Pedro
 
 **Software Engineer — Applied AI & Full Stack Development**  
-Nampula, Mozambique → Global
+ Mozambique → Global
 
 I build complete systems — from frontend to backend — 
 with AI integrated where it creates real value.
@@ -30,8 +30,8 @@ An AI-integrated productivity platform that automates
 study schedules and content review.
 Built from requirements to production — solo.
 
-[View Repository →](#)
-
+[View Repository (Front-End) →](https://github.com/JoyceAcacioPedro/revisai-frontend)
+[View Repository (Back-End) →](https://github.com/JoyceAcacioPedro/revisai-backend)
 
 ### My Career — AI Job Advisor
 > Python · LlamaIndex · Llama 3.2 · Streamlit · SQLite
@@ -54,12 +54,12 @@ optimised LLM reasoning for Portuguese output.
 
 
 ## Stack
-Languages: Python · JavaScript
-Frontend: React · HTML · CSS · TailwindCSS
-Backend: Django · REST APIs · JWT · PostgreSQL
+Languages: Python · JavaScript; 
+Frontend: React · HTML · CSS · TailwindCSS; 
+Backend: Django · REST APIs · JWT · PostgreSQL; 
 Applied AI: LangChain · LlamaIndex · RAG ·
-Embeddings · Prompt Engineering · LLMs
-Deployment: Vercel · Render · Git · GitHub
+Embeddings · Prompt Engineering · LLMs; 
+Deployment: Vercel · Render · Git · GitHub.
 
 
 
